@@ -1,0 +1,9 @@
+ machine-learning
+python
+ai
+house-price-prediction
+real-estate
+scikit-learn
+random-forest
+customtkinter
+data-science
